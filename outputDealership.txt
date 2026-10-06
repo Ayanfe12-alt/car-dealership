@@ -1,0 +1,10 @@
+1. Fleet Average Mileage: 84400.00
+2. Cheapest Vehicle: Opel Astra, price=550000, age=11, km=190000.0, fuel=PETROL, averageKmPerYear=17272.73
+3. Top Electric Vehicle: Kia EV6, batteryCapacity=77 kWh, averageKmPerYear=15000.00
+4. Total Fleet Inventory Value: 67232563
+5. Filtered Hybrid Inventory:
+   Renault Zoe, price=3622500, age=6, km=82000.0, fuel=HYBRID, averageKmPerYear=13666.67, batteryCapacity=52 kWh, heatPump=true
+   Nissan Leaf, price=4657500, age=5, km=65000.0, fuel=HYBRID, averageKmPerYear=13000.00, batteryCapacity=40 kWh, heatPump=false
+   Toyota Corolla, price=5635000, age=4, km=75000.0, fuel=HYBRID, averageKmPerYear=18750.00
+6. Young Inventory Count: 5
+7. Discount Simulation: Opel Astra updated final price=330000
